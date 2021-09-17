@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="score">Good Luck!</string>
+    <string name="game_time">Time:</string>
+    <string name="choose_headline">Choose Difficulty:</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="play_button">Play</string>
+    <string name="win">You WIN!</string>
+    <string name="lose">You LOST!</string>
+    <string name="play_again_str">Play Again</string>
+    <string name="back_home_str">Home</string>
+    <string name="current_diff">Current Difficulty:</string>
+    <string name="high_score">Best Time: %1$d</string>
+    <string name="seconds">Seconds</string>
+    <string name="time_str">Time: %1$d</string>
+    <string name="beginner_info">Beginner: 4X4 (4 Mines)</string>
+    <string name="intermediate_info">Intermediate: 8X8 (10 Mines)</string>
+    <string name="advanced_info">Advanced: 12X12 (20 Mines)</string>
+
+</resources>
